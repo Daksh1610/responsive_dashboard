@@ -4,7 +4,8 @@
 [![Dart](https://img.shields.io/badge/Dart-2.18-blue?logo=dart&logoColor=white)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
-A **responsive Flutter dashboard application** built for multiple devices, showcasing trading, portfolio, and account management features. Created as part of the **Bandit Internship task**.
+A **responsive Flutter dashboard application** built for multiple devices, showcasing trading, portfolio, and account management features. Created as part of the **Wings AI task**.
+
 
 ---
 
