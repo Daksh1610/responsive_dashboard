@@ -25,17 +25,17 @@ A **responsive Flutter dashboard application** built for multiple devices, showc
 
 | Dashboard | Orders | Portfolio |
 |-----------|--------|----------|
-| ![Dashboard](assets/screenshots/dashboard_screen.png) | ![Orders](assets/screenshots/order_page.png) | ![Portfolio](assets/screenshots/portfolio_page.png) |
+| ![Dashboard](dashboard_screen.png) | ![Orders](order_page.png) | ![Portfolio](portfolio_page.png) |
 
 | Bids | My Account | Funds |
 |------|--------|-------|
-| ![Bids](screenshots/bids_screen.png) | !
-[My ACcount](screenshots/myaccount_page.png) | ![Funds](screenshots/funds_page.png) |
+| ![Bids](bids_screen.png) | !
+[My ACcount](myaccount_page.png) | ![Funds](funds_page.png) |
 
 | Settings | Profile | App Code | Logout |
 |----------|----------|--------|
-| ![Settings](screenshots/settings_page.png) | ![App Code](screenshots/app_code_page.png) | ![Logout](screenshots/logout_screen.png) |
-![Profile](screenshots/profile_page.png)
+| ![Settings](settings_page.png) | ![App Code](app_code_page.png) | ![Logout](logout_screen.png) |
+![Profile](profile_page.png)
 
 ---
 
